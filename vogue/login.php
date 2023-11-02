@@ -54,7 +54,7 @@
                     <!-- 비밀번호박스 -->
                     <div class="minput">
                         <label for="mpw">비밀번호</label>
-                        <input type="password" name="mpw" id="mpw" maxlength="10" placeholder="비밀번호를 입력해 주세요!" />
+                        <input type="password" name="mpw" id="mpw" maxlength="100" placeholder="비밀번호를 입력해 주세요!" />
                     </div>
                     <!-- 버튼영역 -->
                     <div class="btnbx">
